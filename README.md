@@ -1,0 +1,2 @@
+# ADR
+Automatic Deployment Rules 
